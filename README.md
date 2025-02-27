@@ -1,4 +1,4 @@
-# Evaluation-of-Multi-Layer-Perceptron-Algorithm-Digit-Dataset
+# Evaluation of Multi-Layer Perceptron Algorithm : Digit Dataset
 
 ## Background
 This project aims to evaluate the accuracy prediction of the Multilayer Perceptron (MLP) algorithm when applied to the digits dataset. The digits dataset is a collection of 1,797 grayscale images of handwritten digits (0-9), each represented by an 8x8 pixel grid. This dataset is widely used for classification tasks in machine learning, making it an excellent tool for benchmarking and comparing the performance of various models.
